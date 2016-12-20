@@ -1,0 +1,2 @@
+Compile with the -g flag to load debugging symbols:
+	gcc -g -o main main.c
